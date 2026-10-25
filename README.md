@@ -79,5 +79,6 @@ Each campus applies a unique rule set (handled dynamically by booking_rules.py):
 · Johannesburg (Strict): Bookings allowed only 09:00–16:00. Maximum duration of 60 minutes.
 · Cape Town (Moderate): Bookings allowed only 08:00–18:00. Maximum duration of 120 minutes.
 · Durban (Flexible): Bookings allowed 07:00–22:00. Maximum duration of 240 minutes.
+https://github.com/KhanyisileManana/programming-assignment-.git
 
 ```
